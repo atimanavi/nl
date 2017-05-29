@@ -161,7 +161,7 @@
                 "showText": true,
                 "text": "k ben student  van LUCA Gent en ik studeer Keramiek en Glas.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Werk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Over</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Werk</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
               },
               {
                 "active": false,
@@ -175,7 +175,7 @@
                 "showText": true,
                 "text": "Ik ben student  van LUCA Gent en ik studeer Keramiek en Glas.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Werk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Over</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Werk</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
               },
               {
                 "active": false,
@@ -189,7 +189,7 @@
                 "showText": true,
                 "text": "Ik ben student  van LUCA Gent en ik studeer Keramiek en Glas.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Werk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Over</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Werk</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
               },
               {
                 "active": false,
@@ -203,7 +203,7 @@
                 "showText": true,
                 "text": "Ik ben student  van LUCA Gent en ik studeer Keramiek en Glas.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Werk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Over</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Werk</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
               },
               {
                 "active": true,
@@ -1034,7 +1034,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img2694-1400x1191-184.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img2694-1400x1191-187.jpg",
               "link": "",
               "alt": "",
               "title": "",
